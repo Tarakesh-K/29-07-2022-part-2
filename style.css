@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(235, 244, 249);
+}
+
+form i {
+    color: red;
+    font-size: 6px;
+}
+
+.form-div {
+    margin-top: 50px;
+}
+
+.row-1 .col-md-3 input {
+    width: 100%;
+}
+
+.row-2 .col-md-6 input {
+    width: 100%;
+}
+
+.checked {
+    color: orange;
+}
+
+.row4-part1, .row4-part2, .row4-part3, .row4-part4 {
+    margin-bottom: 20px;
+}
+
+.row4-part1 .col-md-2, .row4-part2 .rad, .rad {
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+}
